@@ -47,8 +47,11 @@ All **game response posts** are due on the course website (i.e. Moodle). You sho
 
 **Game play assignments** refer to games that are available in the game study center in Harvey 104. If the game is not in the lab, more specific instructions will be available.
 
-## Required books
-_none_
+## Required
+Squire, K. (2011) _Video games and learning: Teaching and participatory culture in the digital age_. New York, NY: Teachers College Press.
+
+## Game
+_Civilization V_. For this, you’ll need to sign up for a Steam account (free) and download the game through them. The game is $29.99.
 
 ## Suggested books
 Bogost, I. (2010). _Persuasive games: the expressive power of videogames._ Cambridge  Mass. ;London: MIT Press.
